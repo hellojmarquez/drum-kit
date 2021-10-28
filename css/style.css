@@ -65,6 +65,7 @@ body{
     .drum-box{
         width: 200px;
         height: 200px;
+        margin-right:50px ;
     }
 
     .main-key{
